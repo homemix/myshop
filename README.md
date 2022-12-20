@@ -3,7 +3,7 @@
 A project to implement the following Python Django features:
 
 1. [x] Create a product catalog
-2. [ ] Build a shopping cart using Django sessions
+2. [x] Build a shopping cart using Django sessions
 3. [ ] Create custom context processors
 4. [ ] Manage customer orders
 5. [ ] Configure Celery in your project with RabbitMQ as a message broker

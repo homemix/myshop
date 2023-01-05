@@ -8,9 +8,9 @@ A project to implement the following features in Python Django:
 2. [x] Build a shopping cart using Django sessions
 3. [x] Create custom context processors
 4. [x] Manage customer orders
-5. [ ] Configure Celery in your project with RabbitMQ as a message broker
-6. [ ] Send asynchronous notifications to customers using Celery
-7. [ ] Monitor Celery using Flower
+5. [x] Configure Celery in your project with RabbitMQ as a message broker
+6. [x] Send asynchronous notifications to customers using Celery
+7. [x] Monitor Celery using Flower
 
 #### Part 2
 

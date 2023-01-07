@@ -22,6 +22,16 @@ A project to implement the following features in Python Django:
 6. [ ] Generate PDF invoices dynamically
 
 
+### Part 3
+
+1. [ ] Creating a coupon system
+2. [ ] Applying coupons to the shopping cart
+3. [ ] Applying coupons to orders
+4. [ ] Creating coupons for Stripe Checkout
+5. [ ] Storing products that are usually bought together
+6. [ ] Building a product recommendation engine with Redis
+
+
 This is an implementation of **Django 4 By Example Fourth Edition** Ebook.
 
 ### Installation

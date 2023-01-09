@@ -17,7 +17,7 @@ A project to implement the following features in Python Django:
 1. [x] Integrate the Stripe payment gateway into your project
 2. [x] Process credit card payments with Stripe
 3. [x] Handle payment notifications
-4. [ ] Export orders to CSV files
+4. [x] Export orders to CSV files
 5. [ ] Create custom views for the administration site
 6. [ ] Generate PDF invoices dynamically
 

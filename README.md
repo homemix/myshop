@@ -19,7 +19,7 @@ A project to implement the following features in Python Django:
 3. [x] Handle payment notifications
 4. [x] Export orders to CSV files
 5. [x] Create custom views for the administration site
-6. [ ] Generate PDF invoices dynamically
+6. [x] Generate PDF invoices dynamically
 
 
 ### Part 3

@@ -24,7 +24,7 @@ A project to implement the following features in Python Django:
 
 ### Part 3
 
-1. [ ] Creating a coupon system
+1. [x] Creating a coupon system
 2. [ ] Applying coupons to the shopping cart
 3. [ ] Applying coupons to orders
 4. [ ] Creating coupons for Stripe Checkout

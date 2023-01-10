@@ -25,10 +25,10 @@ A project to implement the following features in Python Django:
 ### Part 3
 
 1. [x] Creating a coupon system
-2. [ ] Applying coupons to the shopping cart
-3. [ ] Applying coupons to orders
-4. [ ] Creating coupons for Stripe Checkout
-5. [ ] Storing products that are usually bought together
+2. [x] Applying coupons to the shopping cart
+3. [x] Applying coupons to orders
+4. [x] Creating coupons for Stripe Checkout
+5. [x] Storing products that are usually bought together
 6. [ ] Building a product recommendation engine with Redis
 
 

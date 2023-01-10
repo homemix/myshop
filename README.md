@@ -31,6 +31,19 @@ A project to implement the following features in Python Django:
 5. [x] Storing products that are usually bought together
 6. [ ] Building a product recommendation engine with Redis
 
+#### Part 4
+
+1. [ ] Preparing your project for internationalization
+2. [ ] Managing translation files
+3. [ ] Translating Python code
+4. [ ] Translating templates
+5. [ ] Using Rosetta to manage translations
+6. [ ] Translating URL patterns and using a language prefix in URLs
+7. [ ] Allowing users to switch language
+8. [ ] Translating models using django-parler
+9. [ ] Using translations with the ORM
+10. [ ] Adapting views to use translations
+11. [ ] Using localized form fields of django-localflavor
 
 This is an implementation of **Django 4 By Example Fourth Edition** Ebook.
 
